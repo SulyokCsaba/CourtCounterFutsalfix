@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Court Counter Futsal</string>
+    <string name="_0">0</string>
+    <string name="reset">reset</string>
+    <string name="foul">foul</string>
+    <string name="fouls">Fouls</string>
+    <string name="goal">!!! GOAL !!!</string>
+    <string name="team_a">Team A</string>
+    <string name="goala">!!! GOAL !!!</string>
+    <string name="foulsa">Fouls</string>
+    <string name="_0a">0</string>
+    <string name="foula">foul</string>
+    <string name="team_b">Team B</string>
+    <string name="_0b">0</string>
+    <string name="_0b2">0</string>
+</resources>
